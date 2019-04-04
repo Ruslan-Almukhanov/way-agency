@@ -380,6 +380,7 @@
 
     .questions-block > div {
         padding: 0px 0;
+    }
 }
 
 @media screen and (max-width : 480px) {
@@ -405,11 +406,12 @@
 @media screen and (max-width : 380px) {
     .offer__right-block {
         width: 185px;
-        top: 27%;
+        top: 34%;
     }
 
     .offer__btn {
         padding: 19px;
+    }
 }
 
 @media screen and (max-width : 342px) {
